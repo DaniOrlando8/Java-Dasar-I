@@ -13,13 +13,13 @@ public class Soal {
     Cetak variabel nomor
 
 //---------------------------------------------------//
-    Deklarasikan variabel nomor dengan tipe data int 
+    Deklarasikan variabel nama dengan tipe data string 
 
 
-    Tetapkan 3 ke variabel nomor
+    Tetapkan "Budi" ke variabel nama
 
         
-    Cetak variabel nomor
+    Cetak variabel nama
 */
     }
 }
