@@ -20,6 +20,7 @@ public class Soal {
 
         
     Cetak variabel nama
+    
 */
     }
 }
