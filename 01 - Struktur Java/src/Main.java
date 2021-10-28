@@ -1,6 +1,7 @@
-/* 
+/* ~ Struktur ~
+
     Setiap file Java mempunyai class. 
-    Di dalam class, ada method. 
+    Di dalam class, terdapat method. 
 */
 public class Main {
     public static void main(String[] args) {

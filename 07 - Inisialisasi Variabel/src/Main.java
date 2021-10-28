@@ -1,4 +1,4 @@
-/* ~Inisialisasi Variabel~
+/* ~ Inisialisasi Variabel ~
 
     Anda juga dapat mendeklarasikan variable dan menetapkan nilai ke variable tersebut secara bersamaan, 
     seperti int number = 1; atau String text = "Hello World!";. 

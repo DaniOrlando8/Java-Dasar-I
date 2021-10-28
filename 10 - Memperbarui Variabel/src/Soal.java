@@ -1,3 +1,7 @@
+/* ~ Soal ~
+
+    1. Kerjakanlah soal dibawah ini.
+*/
 public class Soal {
     public static void main(String[] args) {
         int number = 8;

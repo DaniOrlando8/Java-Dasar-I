@@ -1,4 +1,5 @@
 /* ~ Soal ~
+
     1. Kerjakanlah soal dibawah ini.
 */
 public class Soal {

@@ -1,4 +1,5 @@
-/*Soal
+/* ~ Soal ~
+
     1. Buatlah suatu output yang menghasilkan String dan Integer (Bebas)
 */
 public class Soal {

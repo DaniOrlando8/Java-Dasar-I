@@ -1,4 +1,5 @@
-/*Soal
+/* ~ Soal ~
+
     1.Buatlah output yang menghasilkan operasi aritmatika, semenarik mungkin.
 */
 public class Soal {

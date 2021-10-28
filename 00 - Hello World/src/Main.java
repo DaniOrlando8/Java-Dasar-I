@@ -1,4 +1,5 @@
-/* 
+/* ~ Hello World ~
+
     Menulis code Java pertama Anda. 
     Anda akan melakukannya di dalam file bernama Main.java 
     Pertama kali adalah kita akan mencetak karakter.

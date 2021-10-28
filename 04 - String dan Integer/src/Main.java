@@ -1,4 +1,5 @@
-/*
+/* ~ String dan Integer ~
+
     String dan integer diinterpretasikan secara berbeda dalam pemrograman. 
     Contohnya, 2 + 3 akan mencetak 5, hasil dari penjumlahannya. 
     Akan tetapi, jika Anda memberikan tanda kutip dua " seperti "2 + 3", 

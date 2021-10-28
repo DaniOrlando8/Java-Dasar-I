@@ -1,5 +1,6 @@
-/*Soal
-    1. Buatlah instruksi untuk mencetak nama anda ("Nama Saya ....")
+/* ~ Soal ~
+
+    1. Buatlah instruksi untuk mencetak output nama Anda ("Nama Saya ....")
 */
 
 public class Soal {

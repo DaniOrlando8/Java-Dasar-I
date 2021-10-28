@@ -1,4 +1,5 @@
-/*Soal
+/* ~ Soal ~
+
     1. Buatlah biodata versi anda sendiri dengan menggunakan string.
     2. Buatlah biodata semenarik mungkin.
 */

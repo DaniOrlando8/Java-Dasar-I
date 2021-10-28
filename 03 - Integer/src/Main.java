@@ -1,4 +1,5 @@
-/*Integer
+/* ~ Integer ~
+
     Anda dapat menggunakan angka seperti integer dalam pemrograman. 
     Tidak seperti string, integer tidak perlu ditutup dengan tanda kutip. 
     Anda dapat menambah dan mengurangi integer seperti yang Anda lakukan dalam matematika. 

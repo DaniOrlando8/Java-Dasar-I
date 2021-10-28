@@ -1,4 +1,5 @@
-/*
+/* ~ Soal ~
+
     Di dalam Java, Anda dapat melakukan kalkulasi lain seperti perkalian dan pembagian.
     Namun dengan simbol berbeda dari apa yang Anda gunakan dalam matematika. 
     Operator * untuk perkalian dan / untuk pembagian.
