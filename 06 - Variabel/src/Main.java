@@ -5,7 +5,7 @@
     Selain itu, kotak (variable) mempunyai nama yang dapat digunakan kapan saja untuk mengambil nilai dari Kotak (variable). 
     Variable adalah bagian yang penting dari pemrograman, jadi pastikan Anda memahaminya.
 */
-public class App {
+public class Main {
     public static void main(String[] args) {
     int number;
     number = 1;
