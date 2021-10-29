@@ -1,0 +1,35 @@
+x = x + 10; Menjadi x += 10; 
+x = x - 10; Menjadi x -= 10;
+x = x * 10; Menjadi x *= 10;
+x = x / 10; Menjadi x /= 10;
+x = x % 10; Menjadi x %= 10;
+
+Saat Anda menambah atau mengurangi 1, 
+Anda dapat mempersingkatnya dengan ++ dan --. 
+x++ sama dengan x += 1, dan x-- sama dengan x -= 1. 
+Ini adalah cara penulisan yang lebih mudah, jadi mari kita ingat.
+
+x = x + 1; Menjadi x += 1; -> x++; Menambah    1
+x = x - 1; Menjadi x -= 1; -> x--; Mengurangi  1 
+
+~ Soal ~
+    1. Kerjakanlah soal dibawah ini dan jadikan Main.java
+    
+class Main {
+  public static void main(String[] args) {
+    int number = 8;
+    
+    // Perbarui variable number dengan mengalikannya dengan 7
+    
+    
+    // Cetak variable number
+    
+    
+    // Perbarui variable number dengan menambahkannya dengan 1
+    
+    
+    // Cetak variable number
+    
+    
+  }
+}
