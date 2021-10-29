@@ -2,7 +2,7 @@
 
     1. Kerjakanlah soal Project Akhir dibawah ini dan selamat mengerjakan :-)
 */
-public class Main {
+public class Soal {
     public static void main(String[] args) throws Exception {
 
     // Tetapkan string ke variable nama
