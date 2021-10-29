@@ -9,6 +9,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("2 + 3 "+" = 5"); //Line ini menggunakan pengggabungan String.
         System.out.println(2 + 3); //Line ini menggunakan penggabungan integer. 
-        System.out.println("Umur Saya " + 23 + " tahun"); //Line ini menggunakan penggabungan String dan integer.
+        System.out.println("Umur Saya " + 23 + " tahun"); //Line ini menggunakan penggabungan String dan integer (Konversi Tipe Implicit)
     }
 }
